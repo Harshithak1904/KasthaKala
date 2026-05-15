@@ -24,17 +24,6 @@ It provides tools for **project estimation, saving quotes, portfolio management,
 
 ---
 
-## 📸 Screenshots
-(Add screenshots here once you run the app and capture them)
-
-Example placeholders:
-- Login Screen
-- Estimator Screen
-- Quotes Screen
-- Portfolio Screen
-
----
-
 ## 🚀 Getting Started
 1. Clone the repo:
    ```bash
